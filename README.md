@@ -25,7 +25,8 @@ A modern dashboard to visualize GitHub stats, repositories, and contributions in
 
 ---
 ## 🧩 Architecture Overview
---
+---
+```
                      ┌────────────────────────┐
                      │      GitHub API        │
                      └─────────────┬──────────┘
@@ -45,7 +46,7 @@ A modern dashboard to visualize GitHub stats, repositories, and contributions in
             │      Dashboard       │
             │   (Interactive UI)   │
             └──────────────────────┘
-
+```
 
 ## 📁 Project Structure
 ```
