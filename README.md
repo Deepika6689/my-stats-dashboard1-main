@@ -47,9 +47,6 @@ A modern dashboard to visualize GitHub stats, repositories, and contributions in
             │   (Interactive UI)   │
             └──────────────────────┘
 ```
-```
-![Uploading image.png…]()
-```
 ## 📁 Project Structure
 ```
 ├── public/ # Static assets
