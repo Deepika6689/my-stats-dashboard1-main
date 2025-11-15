@@ -47,7 +47,33 @@ A modern dashboard to visualize GitHub stats, repositories, and contributions in
             │   (Interactive UI)   │
             └──────────────────────┘
 ```
+```
++---------------------+
+|      GitHub API     |
++---------------------+
+            |
+            v
++-------------------------------+
+| Fetches User, Repo & Stats   |
++-------------------------------+
+            |
+    -----------------------
+    |                     |
+    v                     v
++----------------+   +----------------------+
+| Data Processing|   |    UI Components     |
+| (API utils &   |   | (Charts, Cards, UI)  |
+|     hooks)     |   +----------------------+
++----------------+
+            \           /
+             \         /
+              v       v
+          +-------------------+
+          |     Dashboard     |
+          | (Interactive UI)  |
+          +-------------------+
 
+```
 ## 📁 Project Structure
 ```
 ├── public/ # Static assets
