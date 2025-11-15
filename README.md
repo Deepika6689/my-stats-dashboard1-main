@@ -1,4 +1,4 @@
-# 📊 GitHub Analyzers
+<img width="1024" height="1536" alt="35b38bf0-4372-4147-925f-2ad03477d723" src="https://github.com/user-attachments/assets/73c81f59-398a-4524-84e5-e40cd987d0c1" /># 📊 GitHub Analyzers
 
 A modern dashboard to visualize GitHub stats, repositories, and contributions in a sleek, interactive interface.
 
@@ -47,6 +47,7 @@ A modern dashboard to visualize GitHub stats, repositories, and contributions in
             │   (Interactive UI)   │
             └──────────────────────┘
 ```
+![Uploading 35b38bf0-4372-4147-925f-2ad03477d723.png…]()
 ## 📁 Project Structure
 ```
 ├── public/ # Static assets
