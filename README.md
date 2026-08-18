@@ -1,4 +1,4 @@
-# GitHub Analyzer — GitHub Statistics Dashboard
+#📊 GitHub Analyzer — GitHub Statistics Dashboard
 
 ## Overview
 
